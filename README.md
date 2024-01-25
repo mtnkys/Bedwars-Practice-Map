@@ -8,4 +8,6 @@
 ・Bridge
 ・Challange
 
-[Click to open Release file](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest)
+[Latest version](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest)
+
+[Releases](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/)
