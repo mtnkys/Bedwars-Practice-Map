@@ -12,4 +12,4 @@
 
 [Releases](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/)
 
-[Download Latest](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/download/1.0.0/BwPractice.zip)
+[Download Latest](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest/download/BwPractice.zip)
