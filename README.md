@@ -1,5 +1,6 @@
 # Bedwars-Practice-Map
 ## made by mtnky
+(Single Player only)
 
 ### modes
 #### ・Block-IN
