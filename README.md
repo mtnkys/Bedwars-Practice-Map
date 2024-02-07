@@ -1,16 +1,44 @@
-# Bedwars-Practice-Map
-## made by mtnky
-(Single Player only)
+![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/61eb2d2b-d81f-459e-8413-138ea02966f1)
+made & projected by mtnky
 
-### modes
-#### ・Block-IN
-#### ・Ladder
-#### ・Clutch
-#### ・Bridge
-#### ・Challange
+Supported Minecraft version: 1.8.9
 
-[Latest version](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest)
-
-[Releases](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/)
-
+## << DOWNLOAD & INSTALLING >>
+[Releases](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases)
+[Latest](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest)
 [Download Latest](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest/download/BwPractice.zip)
+
+### How to download 
+Step 1, [Download](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest/download/BwPractice.zip) the world.
+
+Step 2, Extract the file and Put the file in the saves folder (``.minecraft/saves``).
+
+Step 3, Launch **1.8.9** minecraft and play in the world!
+
+## << SUPPORTED PRACTICES >>
+> - **Block-In**
+> - **Bridge**
+> - **Block-Ladder**
+> - **Clutch**
+
+> (Temporary Disabled: **Challange**)
+
+## << Support and suggest build ideas >>
+
+[Discord](https://discord.gg/TJuRWmBR2M)
+
+## << SCREENSHOTS >> 
+
+(version: 2.1.0)
+
+New lobby: ![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/82ea4a52-fba2-4189-a25c-babc82c8bf09)
+
+BlockIn : ![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/5a32787d-af40-4c7f-9130-843ac1280af4)
+
+BlockIn BlockSelector :![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/4511ec7e-766d-4190-830e-038c9ed9c422)
+
+Bridge : ![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/0c508e15-62b5-4719-b47b-f75ae0f1362f)
+
+Bridge WallMode: ![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/22b55e19-76d6-47aa-898f-76cde0e2ba73)
+
+Bridge RankedMode: ![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/764d30d9-4682-4322-8e39-5d790b4a95cf)
