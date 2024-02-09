@@ -8,28 +8,38 @@ Supported Minecraft version: 1.8.9
 [Latest](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest)
 [Download Latest](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest/download/BwPractice.zip)
 
-### How to download 
+### How to Install
+
+#### Windows
+
 Step 1, [Download](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest/download/BwPractice.zip) the world.
 
-Step 2, Extract the file and Put the file in the saves folder (``.minecraft/saves``).
+Step 2, Extract the file.
 
-Step 3, Launch **1.8.9** minecraft and play in the world!
+Step 3, Press ``Win + R``, Enter `%AppData%/.minecraft/saves` in the field
+
+Step 4, Launch **1.8.9** minecraft and play in the world!
+
+#### MacOS
+
+Step 1, [Download](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/releases/latest/download/BwPractice.zip) the world.
+
+Step 2, Extract the file.
+
+Step 3, With finder open, press ``Command + Shift + G``, Enter `~/Library/Application Support/minecraft/saves` in the field.
+
+Step 4, Launch **1.8.9** minecraft and play in the world!
 
 ## << SUPPORTED PRACTICES >>
 > - **Block-In**
 > - **Bridge**
 > - **Block-Ladder**
 > - **Clutch**
-
-> (Temporary Disabled: **Challange**)
-
-## << Support and suggest build ideas >>
-
-[Discord](https://discord.gg/TJuRWmBR2M)
+> - **Challange**
 
 ## << SCREENSHOTS >> 
 
-(version: 2.1.0)
+(version: 2.2.0)
 
 New lobby: ![image](https://github.com/mtnk-mtnk/Bedwars-Practice-Map/assets/127637076/82ea4a52-fba2-4189-a25c-babc82c8bf09)
 
